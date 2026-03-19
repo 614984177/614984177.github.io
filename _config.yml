@@ -102,5 +102,5 @@ theme: fluid  # 指定主题
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/614984177/614984177.github.io.git
+  repo: git@github.com:614984177/614984177.github.io.git
   branch: gh-pages
