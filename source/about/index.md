@@ -5,3 +5,6 @@ date: 2026-03-19 23:58:19
 ---
 
 这里写关于页的正文，支持 Markdown, HTML
+
+[github](https://github.com/614984177/614984177.github.io)
+[CSDN](https://blog.csdn.net/ZscDst?type=lately)
